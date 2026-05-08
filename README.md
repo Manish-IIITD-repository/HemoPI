@@ -16,7 +16,7 @@ Chaudhary, K., Kumar, R., Singh, S., Tuknait, A., Gautam, A., Mathur, D., Anand,
 
 ## About the Platform
 
-HemoPI was developed to help researchers overcome the toxicity hurdles associated with peptide-based therapeutics[cite: 19, 21]. [cite_start]While peptides offer high specificity and better tissue penetration than small molecules, their clinical potential is often limited by high hemolytic activity[cite: 8, 17, 362]. [cite_start]HemoPI utilizes models trained on experimentally validated data from the Hemolytik database to discriminate between hemolytic and non-hemolytic peptides with over **95% accuracy**.
+HemoPI was developed to help researchers overcome the toxicity hurdles associated with peptide-based therapeutics. [cite_start]While peptides offer high specificity and better tissue penetration than small molecules, their clinical potential is often limited by high hemolytic activity.HemoPI utilizes models trained on experimentally validated data from the Hemolytik database to discriminate between hemolytic and non-hemolytic peptides with over **95% accuracy**.
 
 The platform utilizes three distinct datasets:
 * **HemoPI-1**: Contains 552 hemolytic peptides and 552 random non-hemolytic peptides (from Swiss-Prot).
