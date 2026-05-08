@@ -1,6 +1,6 @@
 # HemoPI: A Web Server and Mobile App for Computing Hemolytic Potency
 
-Welcome to the official documentation for **HemoPI**, a dedicated suite of computational tools designed for predicting, screening, and designing peptides with varying hemolytic potency.Hemolytic activity—the lysis of red blood cells—is a critical safety parameter and a major hurdle in translating therapeutic peptides into clinical drugs[cite: 8, 22]. [cite_start]HemoPI provides researchers with high-accuracy machine learning models to identify hemotoxicity before embarking on costly and time-consuming experimental synthesis.
+Welcome to the official documentation for **HemoPI**, a dedicated suite of computational tools designed for predicting, screening, and designing peptides with varying hemolytic potency.Hemolytic activity—the lysis of red blood cells—is a critical safety parameter and a major hurdle in translating therapeutic peptides into clinical drugs.HemoPI provides researchers with high-accuracy machine learning models to identify hemotoxicity before embarking on costly and time-consuming experimental synthesis.
 
 **Web Server:** [http://crdd.osdd.net/raghava/hemopi/](http://crdd.osdd.net/raghava/hemopi/) 
 
@@ -16,7 +16,7 @@ Chaudhary, K., Kumar, R., Singh, S., Tuknait, A., Gautam, A., Mathur, D., Anand,
 
 ## About the Platform
 
-HemoPI was developed to help researchers overcome the toxicity hurdles associated with peptide-based therapeutics. [cite_start]While peptides offer high specificity and better tissue penetration than small molecules, their clinical potential is often limited by high hemolytic activity.HemoPI utilizes models trained on experimentally validated data from the Hemolytik database to discriminate between hemolytic and non-hemolytic peptides with over **95% accuracy**.
+HemoPI was developed to help researchers overcome the toxicity hurdles associated with peptide-based therapeutics.While peptides offer high specificity and better tissue penetration than small molecules, their clinical potential is often limited by high hemolytic activity.HemoPI utilizes models trained on experimentally validated data from the Hemolytik database to discriminate between hemolytic and non-hemolytic peptides with over **95% accuracy**.
 
 The platform utilizes three distinct datasets:
 * **HemoPI-1**: Contains 552 hemolytic peptides and 552 random non-hemolytic peptides (from Swiss-Prot).
