@@ -2,7 +2,7 @@
 
 Welcome to the official documentation for **HemoPI**, a dedicated suite of computational tools designed for predicting, screening, and designing peptides with varying hemolytic potency.Hemolytic activity—the lysis of red blood cells—is a critical safety parameter and a major hurdle in translating therapeutic peptides into clinical drugs.HemoPI provides researchers with high-accuracy machine learning models to identify hemotoxicity before embarking on costly and time-consuming experimental synthesis.
 
-**Web Server:** [http://crdd.osdd.net/raghava/hemopi/](http://crdd.osdd.net/raghava/hemopi/) 
+**Web Server:** [http://crdd.osdd.net/raghava/hemopi/](http://crdd.osdd.net/raghava/hemopi/) (https://webs.iiitd.edu.in/raghava/hemopi/)
 
 ---
 
