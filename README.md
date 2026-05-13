@@ -12,6 +12,8 @@ Chaudhary, K., Kumar, R., Singh, S., Tuknait, A., Gautam, A., Mathur, D., Anand,
 **A Web Server and Mobile App for Computing Hemolytic Potency of Peptides.** *Scientific Reports*, 6, 22843. 
 [https://doi.org/10.1038/srep22843](https://doi.org/10.1038/srep22843)
 
+Zenodo:-(https://doi.org/10.5281/zenodo.20079960)
+
 ---
 
 ## About the Platform
